@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reverse</string>
+    <string name="title_activity_activity_game_play">ActivityGamePlay</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_welcome">ActivityWelcome</string>
+    <string name="title_activity_activity_homepage">ActivityHomepage</string>
+</resources>
